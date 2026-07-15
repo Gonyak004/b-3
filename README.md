@@ -207,7 +207,7 @@ Step 3. 조건부 분기 (Filter / Router):
 
 ### 2-4. 실행 결과 화면 캡처
 
-PC 견적서 요청 실행 결과
+문의사항 견적 A-> PC 견적서 요청 실행 결과
 
 <div>
 <img width="534" height="728" alt="Image" src="https://github.com/user-attachments/assets/568d91c4-14ff-49a7-9058-24787346d10e" />
@@ -215,7 +215,7 @@ PC 견적서 요청 실행 결과
 
 #
 
-일반 문의 요청 실행 결과
+문의사항 견적 B-> 일반 문의 요청 실행 결과
 
 <div>
 <img width="539" height="740" alt="Image" src="https://github.com/user-attachments/assets/1f6ef7bc-6599-47e2-9f21-90e2661abd13" />
