@@ -76,4 +76,4 @@ Zapier (재피어) 워크플로우 구성
 
 ### 1-3. Make vs Zapier 자동화 도구 비교 분석 보고서
 
-[![PDF Report](https://img.shields.io/badge/PDF_보고서-바로_읽기-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./make-zapier reports)
+[📄 PDF 비교 분석 보고서 바로 읽기](./make-zapier reports.pdf)
