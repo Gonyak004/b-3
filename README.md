@@ -106,9 +106,22 @@ Zapier (재피어) 워크플로우 구성
 #
 ### Zapier History
 
-<<<<<<< HEAD
 <div>
 <img width="897" height="348" alt="Image" src="https://github.com/user-attachments/assets/cdca5500-d9ac-490e-8a67-f18d409f5e54" />
+<div>
+
+### Zapier History에 따른 결과물
+
+견적서 요청 건
+
+<div>
+<img width="635" height="295" alt="Image" src="https://github.com/user-attachments/assets/c545b830-a3c7-44f0-a189-2504bab0dcb1" />
+<div>
+
+일반 문의 요청 건
+
+<div>
+<img width="642" height="263" alt="Image" src="https://github.com/user-attachments/assets/c0760fe3-6323-4747-9e78-df1b12563432" />
 <div>
 
 #
